@@ -1,0 +1,8 @@
+#clustering:It is grouping of data object based on their feature,it is 
+unsuperred machine learning technique 
+#k-means clustering:is unsuperwised machine learning clustering algorithm
+it is a simplest algorithm in which dataset is partitioned into k cluster
+it is centroid based method in which cluster are associated with centroid 
+
+#Advantages:1.simple to implement 2.scale to large dataset
+#Disadvantages:1.choosing K-manually 2.dependent on initial values
